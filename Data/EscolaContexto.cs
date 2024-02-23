@@ -21,7 +21,5 @@ namespace Universidade.Data
 
         }
 
-        public DbSet<Instrutores>? Instrutores { get; set; }
-
     }
 }

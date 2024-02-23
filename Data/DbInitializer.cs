@@ -74,17 +74,6 @@ namespace Universidade.Data
             }
 
             context.SaveChanges();
-
-            var intrutores = new Instrutores[]
-            {
-                new Instrutores { InstrutoresID = 1, InstrutoresNome = "José", Sobrenome = "Afonso"}
-            };
-
-            foreach (Instrutores g in intrutores)
-            {
-                context.Instrutores.Add(g);
-            }
-            context.SaveChanges();
         }
     }
 }

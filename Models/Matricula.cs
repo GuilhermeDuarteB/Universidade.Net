@@ -14,9 +14,8 @@
 
         public Nota? Nota { get; set; }
 
-        public Estudante Estudante { get; set; }
-
-
         public Curso Curso { get; set; }
+
+        public Estudante Estudante { get; set; }
     }
 }

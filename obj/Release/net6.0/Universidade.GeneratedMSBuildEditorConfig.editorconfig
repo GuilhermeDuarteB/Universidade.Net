@@ -9,103 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Universidade
 build_property.RootNamespace = Universidade
-build_property.ProjectDir = C:\Users\guigu\OneDrive - Escola Profissional\Programação\11º Ano\Universidade-ASP.Net\Universidade\Universidade\
+build_property.ProjectDir = C:\Users\guigu\OneDrive - Escola Profissional\Programação\Testes\GuilhermeDuarteB\Universidade.Net\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\guigu\OneDrive - Escola Profissional\Programação\11º Ano\Universidade-ASP.Net\Universidade\Universidade
+build_property.MSBuildProjectDirectory = C:\Users\guigu\OneDrive - Escola Profissional\Programação\Testes\GuilhermeDuarteB\Universidade.Net
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Cursos/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Cursos/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Cursos/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Cursos/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Cursos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Estudantes/Create.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Estudantes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRhbnRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Estudantes/Delete.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Estudantes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRhbnRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Estudantes/Details.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Estudantes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRhbnRlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Estudantes/Edit.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Estudantes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRhbnRlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Estudantes/Index.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Estudantes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRhbnRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Home/About.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Home/Index.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Home/Privacy.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Instrutores/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Instrutores/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Instrutores/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Instrutores/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Instrutores/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Shared/Error.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/_ViewImports.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/_ViewStart.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/guigu/OneDrive - Escola Profissional/Programação/11º Ano/Universidade-ASP.Net/Universidade/Universidade/Views/Shared/_Layout.cshtml]
+[C:/Users/guigu/OneDrive - Escola Profissional/Programação/Testes/GuilhermeDuarteB/Universidade.Net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-07wgcpqvf5

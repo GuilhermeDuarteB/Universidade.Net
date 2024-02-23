@@ -10686,19 +10686,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guigu\\.nuget\\packages\\": {}
+    "C:\\Users\\3xmin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guigu\\OneDrive - Escola Profissional\\Programação\\Testes\\GuilhermeDuarteB\\Universidade.Net\\Universidade.csproj",
+      "projectUniqueName": "C:\\Users\\3xmin\\OneDrive - Escola Profissional\\Programação\\11º Ano\\Universidade-ASP.Net\\Universidade\\Universidade\\Universidade.csproj",
       "projectName": "Universidade",
-      "projectPath": "C:\\Users\\guigu\\OneDrive - Escola Profissional\\Programação\\Testes\\GuilhermeDuarteB\\Universidade.Net\\Universidade.csproj",
-      "packagesPath": "C:\\Users\\guigu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guigu\\OneDrive - Escola Profissional\\Programação\\Testes\\GuilhermeDuarteB\\Universidade.Net\\obj\\",
+      "projectPath": "C:\\Users\\3xmin\\OneDrive - Escola Profissional\\Programação\\11º Ano\\Universidade-ASP.Net\\Universidade\\Universidade\\Universidade.csproj",
+      "packagesPath": "C:\\Users\\3xmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\3xmin\\OneDrive - Escola Profissional\\Programação\\11º Ano\\Universidade-ASP.Net\\Universidade\\Universidade\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\guigu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\3xmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10706,6 +10711,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10718,11 +10724,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10763,7 +10764,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

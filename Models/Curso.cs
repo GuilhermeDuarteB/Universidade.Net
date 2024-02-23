@@ -9,6 +9,6 @@ namespace Universidade.Models
         public int CursoID { get; set; }
         public string Titulo { get; set; }
         public int Creditos { get; set; }
-        public ICollection<Matricula> Matriculas { get; set; } = new List<Matricula>();
+        public ICollection<Matricula> Matriculas { get; set; }
     }
 }
