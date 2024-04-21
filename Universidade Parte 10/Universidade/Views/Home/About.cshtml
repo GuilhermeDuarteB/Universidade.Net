@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Universidade.ViewModels.DataMatriculaGrupo>
+@{
+    ViewData["Title"] = "Estatísticas dos estudantes";
+}
+
+<h2>Estudantes - Estatísticas</h2>
+
+<table>
+    <tr>
+        <th>
+            Data de Matrícula
+        </th>
+        <th>
+            Estudantes
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataMatricula)
+            </td>
+            <td>
+                @item.EstudanteContador
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,60 @@
+﻿@model Universidade.Models.Estudante
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Estudante</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SobreNome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SobreNome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataMatricula)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataMatricula)
+        </dd>
+        <!--Exibe as matriculas do estudante -->
+        <dt>
+            @Html.DisplayNameFor(model => model.Matriculas)
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Curso</th>
+                    <th>Nota</th>
+                </tr>
+                @foreach (var item in Model.Matriculas)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Curso.Titulo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nota)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+        <!-- fim -->
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.EstudanteID">Edit</a> |
+    <a asp-action="Index">Voltar à Lista</a>
+</div>
